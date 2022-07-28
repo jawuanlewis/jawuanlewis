@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jnlewis7
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning languages like JavaScript, Python
+- 🌱 I’m currently learning languages like JavaScript, React
 - 💞️ I’m looking to collaborate on programming side projects
 - 📫 How to reach me -> jl20baller@cox.net
 
