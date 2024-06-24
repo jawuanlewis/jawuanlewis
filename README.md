@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jnlewis7
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning languages like Python, React
-- 💞️ I’m looking to collaborate on programming side projects
-- 📫 How to reach me -> jl20baller@cox.net
+## Hey, I'm Jawuan!
 
-<!---
-jnlewis7/jnlewis7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I recently graduated from Arizona State University with a bachelor's degree in computer science, and will be completing my master's next year. I've explored many aspects of professional software development through various school, internship, and personal projects. I look forward to sharing some of my work on this profile and developing more creative technical projects moving forward!
