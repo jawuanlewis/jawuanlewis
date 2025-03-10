@@ -1,7 +1,7 @@
 # Hey, I'm Jawuan Lewis 👋
 
 - 🎓 In the spring of 2024 I graduated from Arizona State University with a B.S. in Computer Science, and have recently been exploring graduate coursework.
-- 👨‍💻 This past summer I worked as a software engineering intern for Warner Bros. Discovery. I collaborated with the team that develops automated software testing frameworks for the company.
+- 👨‍💻 I am currently a backend engineer intern at Cadent, working with the team that develops data-driven solutions and pipelines.
 - 🌱 I look forward to sharing my personal work on this profile and developing more creative technical projects moving forward!
 
 ## Languages and Tools
