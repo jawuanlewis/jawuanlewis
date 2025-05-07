@@ -1,7 +1,7 @@
 # Hey, I'm Jawuan Lewis 👋
 
 - 🎓 In the spring of 2024 I graduated from Arizona State University with a B.S. in Computer Science, and I'm currently pursuing an online Master's degree.
-- 👨‍💻 This spring I was a backend engineer intern with Cadent, working with the team that develops data-driven solutions and pipelines to support programmatic advertising.
+- 👨‍💻 This spring I was a backend engineer intern at Cadent, working with the team that develops data-driven solutions and pipelines to support programmatic advertising.
 - 🌱 I look forward to sharing my personal work on this profile and developing more creative technical projects moving forward!
 
 ## Languages and Tools
