@@ -1,7 +1,7 @@
 # Hey, I'm Jawuan Lewis 👋
 
-- 🎓 In the spring of 2024 I graduated from Arizona State University with a B.S. in Computer Science, and I will earn my Master's degree this winter.
-- 👨‍💻 I am currently a software engineer intern with Fullbay, focused on building efficient microservices and APIs.
+- 🎓 I recently graduated with a Master of Computer Science (MCS) from Arizona State University.
+- 👨‍💻 I am currently a software engineer with the `Analytics` team at Fullbay.
 - 🌱 I look forward to sharing my personal work on this profile and developing more creative projects moving forward!
 
 ## Languages and Tools
@@ -21,3 +21,4 @@
 ![Static Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Static Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Static Badge](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)
+
