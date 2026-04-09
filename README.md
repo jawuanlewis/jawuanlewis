@@ -1,7 +1,7 @@
 # Hey, I'm Jawuan Lewis 👋
 
 - 🎓 I recently graduated with a Master of Computer Science (MCS) from Arizona State University.
-- 👨‍💻 I am currently a software engineer with the `Analytics` team at Fullbay.
+- 👨‍💻 I am currently a software engineer at Fullbay.
 - 🌱 I look forward to sharing my personal work on this profile and developing more creative projects moving forward!
 
 ## Languages and Tools
